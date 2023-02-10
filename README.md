@@ -1,6 +1,8 @@
 # Como documentar seu projeto backend
 
-Documentar um projeto backend é uma tarefa primordial, principalmente para aqueles que desejam **chamar a atenção** de outros devs e até mesmo recrutadores para os seus projetos Backend. Esse projeto tem o intuito de te direcionar à como montar uma boa documentação para seus projetos Backend, além de fornecer um modelo de exemplo para uso posteriormente.
+Documentar um projeto backend é uma tarefa primordial, principalmente para aqueles que desejam **chamar a atenção** de outros devs e até mesmo recrutadores para os seus projetos Backend. 
+
+Esse projeto tem o intuito de te direcionar à como montar uma boa documentação para seus projetos Backend, além de fornecer um modelo de exemplo para uso posteriormente.
 
 ## Por que documentar?
 
