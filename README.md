@@ -6,7 +6,7 @@ Documentar um projeto backend é uma tarefa primordial, principalmente para aque
 
 Todo código público hospedado em um repositório do GitHub pode ser considerado open-source. Mais do que só um "repositório" pra guardar os seus códigos, o GitHub também é uma excelente ferramenta para descobrir novos projetos e conhecer novos devs, pois tudo que há de bom (e de ruim) está hospedado aqui.
 
-Acontece que quando encontramos certos projetos no GitHub que não possuem uma documentação adequada, aquele projeto em questão deixa de ser interessante, justamente por apresentar certo "desleixo" quanto ao código criado, onde me vem o seguinte sentimento na cabeça: "Se o dev não teve vontade de documentar o projeto, talvez ele não seja tão interessante assim", e acredito que isso não só me afasta, como também afasta possíveis recrutadores.
+Acontece que quando encontramos certos projetos no GitHub que não possuem uma documentação adequada, aquele projeto em questão deixa de ser interessante, justamente por apresentar certo "desleixo" quanto ao código criado, onde vem o seguinte sentimento na cabeça: "Se o dev não teve vontade de documentar o projeto, talvez ele não seja tão interessante assim", e acredito que isso não só me afasta, como também afasta possíveis recrutadores.
 
 Sempre enxerge o README do seu projeto como se fosse uma explicação do mesmo pra qualquer outra pessoa, seja ela técnica ou não.
 
