@@ -71,3 +71,7 @@ Para contribuir com o projeto, veja mais informações em [CONTRIBUTING](./CONTR
 ## Extra - Adicione badges
 
 Adicione badges como essas listadas no projeto [markdown-badges](https://github.com/Ileriayo/markdown-badges) de `Ileriayo`, isso dá um ar de mais profissionalismo, além de deixar tudo mais bonito 😂.
+
+## Extra 2 - Adicione um Changelog
+
+Toda vez que você lançar uma nova feature relevante pro sistema, adicione isso num [changelog](./CHANGELOG.md), que representará todas as versões que o seu sistema já teve, bem com as features implementadas no decorrer do tempo de implementação, isso além de mostrar bastante cuidado e profissionalismo, também dá um histórico pra quem vai contribuir com seu projeto.
