@@ -26,23 +26,21 @@ Aqui você disserta sobre a arquitetura que você usou no projeto, que vai desde
 
 Exemplo de texto (explicando a arquitetura do curto.io):
 
-```
-Next.js
+**Next.js**
 
-Usei Next.js para o frontend devido sua tecnologia server-side, grande parte do projeto precisaria ser gerada no servidor e isso traria grandes vantagens para a aplicação como um todo. Isso, acrescido com a curva de aprendizado baixa por eu já fazer uso dela, me fez tomar a decisão de usá-lo nesse projeto
+*Usei Next.js para o frontend devido sua tecnologia server-side, grande parte do projeto precisaria ser gerada no servidor e isso traria grandes vantagens para a aplicação como um todo. Isso, acrescido com a curva de aprendizado baixa por eu já fazer uso dela, me fez tomar a decisão de usá-lo nesse projeto*
 
-Redis
+**Redis**
 
-Devido sua característica de KVS (Key Value Store), funciona como uma luva para armazenar os tokens dos links curtos para que possamos posteriormente "trocar" por links longos na aplicação, garantindo rapidez e escala na hora de redirecionarmos os usuários, evitando com que a minha API principal seja bombardeada com tanto tráfego no redirecionamento.
+*Devido sua característica de KVS (Key Value Store), funciona como uma luva para armazenar os tokens dos links curtos para que possamos posteriormente "trocar" por links longos na aplicação, garantindo rapidez e escala na hora de redirecionarmos os usuários, evitando com que a minha API principal seja bombardeada com tanto tráfego no redirecionamento.*
 
-Para o redis, estou utilizando Upstash, uma solução que provê o redis como uma plataforma serverless, que vai ser muito legal para o momento da minha aplicação, que vai escalar no decorrer do tempo, além de oferecer um preço muito bacana.
+*Para o redis, estou utilizando Upstash, uma solução que provê o redis como uma plataforma serverless, que vai ser muito legal para o momento da minha aplicação, que vai escalar no decorrer do tempo, além de oferecer um preço muito bacana.*
 
-Spring Boot
+**Spring Boot**
 
-É o backend principal da minha aplicação, feita em Kotlin somente pelo motivo de eu já conhecer a linguagem e ter experiência com o ecossistema Java, partir pra esse lado me deu muita produtivdade na hora de codificar os endpoints da API. 
+*É o backend principal da minha aplicação, feita em Kotlin somente pelo motivo de eu já conhecer a linguagem e ter experiência com o ecossistema Java, partir pra esse lado me deu muita produtivdade na hora de codificar os endpoints da API.*
 
-Apesar de existir a opção de usar as API routes do Next.js, e ser uma ótima opção devido ao incrível serverless da Vercel, para que a aplicação não fique tão cara 🤑 caso ela escale. Unir custo baixo e velocidade no desenvolvimento me deu muita força pra entregar esse projeto.
-```
+*Apesar de existir a opção de usar as API routes do Next.js, e ser uma ótima opção devido ao incrível serverless da Vercel, para que a aplicação não fique tão cara 🤑 caso ela escale. Unir custo baixo e velocidade no desenvolvimento me deu muita força pra entregar esse projeto.*
 
 ## Features
 
